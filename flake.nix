@@ -14,6 +14,7 @@
         (pkgs.python3.withPackages (ps: with ps; [
           numpy
           matplotlib
+          tensorflow
         ]))
       ];
       shellHook = ''
