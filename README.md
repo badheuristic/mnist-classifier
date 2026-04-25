@@ -158,7 +158,7 @@ Ten images are drawn randomly from the test set. The model achieves 95% test acc
 pip install -r requirements.txt
 ```
 
-## For NixOS Users:
+### For NixOS Users:
 ```bash
 nix develop
 ```
